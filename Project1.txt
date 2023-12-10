@@ -1,1 +1,2 @@
-Este es mi primer archivo que voy utilizar Git
+Este es mi primer archivo que voy utilizar Git, agregando:
+- primera modification en Git el dia 12 de diciembre de 2023 a las 10:11pm
