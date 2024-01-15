@@ -4,11 +4,10 @@
         <link rel="stylesheet" href="css/style.css" />
     </head>
     <body>
-<<<<<<< HEAD
+
         <h1>Here is the blogpost body</h1>
         <p>We are doing a test a git to merge to branch, the master and the cabecera ones</p>
         <p>Creating a blog is a good idea within technical people </p>
-=======
         <div id="container">
             <div id="cabecera">
                 CABECERA
@@ -19,18 +18,15 @@
                 <p>This is paragraph</p>
             </div>
         </div>
->>>>>>> cabezera
     </body>
 </html>
 
 
 body
 {
-<<<<<<< HEAD
     color: rgb(20, 36, 255);
     text-align:center;
     font-family: "Arial";
-=======
     color: #333;
     text-align:left;
     font-family: "Arial";
