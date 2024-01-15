@@ -1,2 +1,7 @@
 Este es mi primer archivo que voy utilizar Git, agregando:
+<<<<<<< HEAD
 - primera modification en Git el dia 12 de diciembre de 2023 a las 10:11pm
+=======
+- First change en Git el dia 12 de diciembre de 2023 a las 10:11pm
+- Second change en Git el dia 13 de diciembre de 2023 a las 10:34pm
+>>>>>>> cabezera
